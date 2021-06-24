@@ -1,0 +1,9 @@
+auditdecodelab_theuser
+auditdecodelab_file
+cperw}uSz=wz
+
+
+Domain: audit.decode-lab.com
+audit.decode-lab.com/cpanel
+UserName: auditdecodelab
+PassWord: ~-#e}WBe0[9J
